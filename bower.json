@@ -1,0 +1,29 @@
+{
+  "name": "quiver-table-wrapper",
+  "version": "0.0.0",
+  "description": "TableWrapper",
+  "main": "dist/quiver-table-wrapper.min.js",
+  "homepage": "https://github.com/olivierkastel/https://github.com/olivierkastel/quiver-table-wrapper",
+  "authors": [
+    "Olivier Kastel"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
